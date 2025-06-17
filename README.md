@@ -1,29 +1,30 @@
-<div align="center">
-    <h2>🚀 About Me</h2>
-    <p>I'm a Network Engineering Supervisor and python enthusiast. I enjoy HAM Radio (W1XDB) and flying my drone.</p>
-</div>
+# Hi there, I'm Daniel Barron 👋
 
-- 🔭 I’m currently working on configuration audit automation.
-- 🌱 I’m currently learning leadership.
+![Profile Views](https://komarev.com/ghpvc/?username=danielbarron&color=blue)
 
-<div align="center">
-    <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/danielbarron89/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
+## 🚀 About Me
 
-<!--
-**dbar-soco/dbar-soco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Network Automation
+- 🌱 I’m currently learning: Leadership
+- 👯 I’m looking to collaborate on: Network automation projects that provide tangible results
+- 💬 Ask me about: Network operations processes and automation tasks
+- ⚡ Fun fact: I am a licensed HAM Radio Operator. My callsign is W1XDB
 
-Here are some ideas to get you started:
+## 👨‍💻 Current Role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💼 OT Networks Supervisor
+- 📍 Based in Atlanta, GA
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielbarron&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbarron&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarron89/)
